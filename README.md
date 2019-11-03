@@ -7,7 +7,7 @@ Simple glossary of a few terms from the area of Android programming using the [B
 ----
 ## Preview of web content ##
 
-The web content in this repository can be previewed at [this URL](https://mdecker-mobilecomputing.github.io/HTML_HalloCordova/index.html).
+The web content in this repository can be previewed at [this URL](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/index.html).
 
 <br>
 
