@@ -1,13 +1,17 @@
 # Android-Glossar mit Bootstrap #
 
-Simple glossary of a few terms from the area of Android programming using the [Bootstrap framework](https://getbootstrap.com/).
+Simple glossary (static web content) of a few terms from the area of Android programming using the [Bootstrap framework](https://getbootstrap.com/).
 
 <br>
 
 ----
 ## Preview of web content ##
 
-The web content in this repository can be previewed at [this URL](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/index.html).
+The glossary can be previewed at [this URL (served by GitHub pages)](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/index.html).
+
+<br>
+
+Preview of [Grid demo (served by GitHub pages)](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/grid-demo.html).
 
 <br>
 

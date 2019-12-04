@@ -12,11 +12,13 @@
 
         <h1>Grid-Demo</h1>
 
-        <p class="my-5"><!-- my: m=margin, y=top+bottom -->
+        <p class="my-5"><!-- my-5: m=margin, y=top+bottom, 5: biggest -->
            Eine Zeile mit zwölf leeren Elementen in abwechselnden Hintergrund, die für alle Größenstufen jeweils eine Spalte belegen.
            Die Abstände zwischen den Spalten (gutter) sind nicht sichtbar, weil diese über einen Innenabstand (padding) definiert sind.
            Alle zwölf Elemente enthalten ein geschütztes Leerzeichen <code>&amp;nbsp;</code> (no break space).
         </p>
+
+        <!-- Direkt Zuweisung CSS-Regeln mit Attribut "style" nur zu Demo-Zwecken. -->
 
         <div class="row">
 
@@ -39,6 +41,20 @@
             <div class="col-lg-1 col-md-1 col-sm-1" style="background: blue">&nbsp;</div>
 
         </div><!-- row -->
+
+        <br/><br/>
+
+        <!--
+             Zeile zur Anzeige der aktuellen Größenstufe (immer genau ein Element ist sichtbar).
+             Elemente nur für bestimmte Größenstufen anzeigen: siehe auch https://getbootstrap.com/docs/4.4/utilities/display/#hiding-elements
+          -->
+        <div class="row mt-5 text-center">
+            <div class="d-block d-sm-none"           ><h3><b>Aktuelle Größenstufe:</b> <code>extra small (xs)</code></h3></div>
+            <div class="d-none d-sm-block d-md-none" ><h3><b>Aktuelle Größenstufe:</b> <code>small (sm)</code></h3></div>
+            <div class="d-none d-md-block d-lg-none" ><h3><b>Aktuelle Größenstufe:</b> <code>medium (md)</code></h3></div>
+            <div class="d-none d-lg-block d-xl-none" ><h3><b>Aktuelle Größenstufe:</b> <code>large (lg)</code></h3></div>
+            <div class="d-none d-xl-block"           ><h3><b>Aktuelle Größenstufe:</b> <code>extra large (xl)</code></h3></div>
+        </div>
 
     </div><!-- container -->
 
