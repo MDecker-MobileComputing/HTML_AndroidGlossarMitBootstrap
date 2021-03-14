@@ -20,4 +20,4 @@ Preview of [Grid demo (served by GitHub pages)](https://mdecker-mobilecomputing.
 
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License)
 for the files in this repository.
-The repository contains some files from *Bootstrap*, which is licensed under the terms of the [MIT license](https://getbootstrap.com/docs/4.3/about/license/) by Twitter.
+The repository contains some files from *Bootstrap*, which is licensed under the terms of the [MIT license](https://getbootstrap.com/docs/4.6/about/license/) by Twitter.
