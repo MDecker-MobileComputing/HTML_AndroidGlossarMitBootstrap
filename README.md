@@ -5,6 +5,7 @@ Simple glossary (static web content) of a few terms from the area of Android pro
 <br>
 
 ----
+
 ## Preview of web content ##
 
 The glossary can be previewed at [this URL (served by GitHub pages)](https://mdecker-mobilecomputing.github.io/HTML_AndroidGlossarMitBootstrap/index.html).
@@ -16,6 +17,7 @@ Preview of [Grid demo (served by GitHub pages)](https://mdecker-mobilecomputing.
 <br>
 
 ----
+
 ## License ##
 
 See the [LICENSE file](LICENSE.md) for license rights and limitations (BSD 3-Clause License)
