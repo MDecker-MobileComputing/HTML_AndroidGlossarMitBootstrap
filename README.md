@@ -1,4 +1,4 @@
-# Android-Glossar mit Bootstrap #
+# Android Glossary with Bootstrap 4 #
 
 <br>
 
